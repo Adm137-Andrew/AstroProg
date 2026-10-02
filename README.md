@@ -1,3 +1,0 @@
-# AstroProg
-
-test try
