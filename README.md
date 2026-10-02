@@ -1,6 +1,3 @@
-\# AstroProg
+# AstroProg
 
 test try
-
-# AstroProg
-# AstroProg
